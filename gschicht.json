@@ -1,0 +1,35 @@
+{
+	"name": "example round",
+	"categories": [
+		{
+			"name": "category one",
+			"answers": [
+				{
+					"answer": "example answer",
+					"question": "correct question?",
+					"doublejeopardy": false
+				},
+				{
+					"answer": "That much is the fish!",
+					"question": "The question is: What is the question?",
+					"doublejeopardy": false
+				}
+			]
+		},
+		{
+			"name": "wow very media category",
+			"answers": [
+				{
+					"image": "media/nyan.png",
+					"question": "which cat shits rainbows?",
+					"doublejeopardy": false
+				},
+				{
+					"audio": "media/lol.wav",
+					"question": "How does tobi sound when writing nice code?",
+					"doublejeopardy": false
+				}
+			]
+		}
+	]
+}
